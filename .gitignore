@@ -1,0 +1,11 @@
+validation*
+training*
+data
+nohup.out
+IFCB.csv.zip
+SimCLR
+drive
+.ipynb_checkpoints
+wget-log
+.vscode
+experiments
